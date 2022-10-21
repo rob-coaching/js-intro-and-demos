@@ -59,3 +59,21 @@ Slow Motion Twirl: https://slow-motion-twirl.vercel.app
 Follow path: https://follow-path-anim.vercel.app
 
 Text animation sequence: https://gsap-text-demo.vercel.app/
+
+### JS 3D 
+
+#### ThreeJs
+
+ThreeJS Examples: https://threejs.org/examples
+
+#### Enable 3D
+
+Examples Enable3D (with mouse movement you can change the view):
+
+- 3D World: https://enable3d.io/examples/medieval-fantasy-book-standalone.html
+- Water Waves Effect: https://enable3d.io/examples/water.html
+- Physics with Ball: https://enable3d.io/examples/slope-angle-and-moving-platform.html
+- Wall Crash: https://enable3d.io/examples/wrecking-ball-with-metal-chain.html
+- Ego Shooter: https://enable3d.io/examples/first-person-shooter.html
+- Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
+
