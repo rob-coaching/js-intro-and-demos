@@ -15,7 +15,7 @@ Empfehlungen der Studenten:
 - JS Mastery
 - DevelopedByEd
 
-Coding Resources für die nächsten 10 Jahre :lächeln:
+Coding Resources für die nächsten 10 Jahre:
 https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md
 
 Coding Challenges online:
