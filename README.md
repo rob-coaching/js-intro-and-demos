@@ -81,7 +81,7 @@ Examples Enable3D für 3D Effekte mit Physik-Effekten. Mit Bewebung der Maus kan
 
 #### BabylonJS
 
-Babylon ist eine gute JS Engine für die Entwicklung von 3D Spielen im Browser.
+Babylon ist eine solide JS Engine für die Entwicklung von 3D Spielen im Browser.
 
 Examples: https://www.babylonjs.com/games/
 
