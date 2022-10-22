@@ -70,7 +70,7 @@ ThreeJS Examples: https://threejs.org/examples
 
 #### Enable 3D
 
-Examples Enable3D. With mouse movement you can view around in the scene.
+Examples Enable3D für 3D Effekte mit Physik-Effekten. Mit Bewebung der Maus kann man in den Demos die Perspective drehen.
 
 - 3D World: https://enable3d.io/examples/medieval-fantasy-book-standalone.html
 - Water Waves Effect: https://enable3d.io/examples/water.html
