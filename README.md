@@ -84,4 +84,5 @@ Examples Enable3D. With mouse movement you can view around in the scene.
 Babylon ist eine gute JS Engine für die Entwicklung von 3D Spielen im Browser.
 
 Examples: https://www.babylonjs.com/games/
-Demo - 3D Game Scene: https://react-babylon-3d.vercel.app/game/l3
+
+3D Game Scene Demo (no enemies so far, will follow :D): https://react-babylon-3d.vercel.app/game/l3
