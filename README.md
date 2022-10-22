@@ -46,6 +46,8 @@ Glowing Cube: https://cube-glowing-demo.vercel.app
 
 Glowing Club Text: https://glowing-club-text.vercel.app
 
+Shiny Text Backlight: https://shiny-text-backlight.vercel.app/
+
 Text Morphing: https://text-morphing-demo.vercel.app
 
 ### JS
