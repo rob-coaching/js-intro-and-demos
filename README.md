@@ -60,7 +60,7 @@ Slow Motion Twirl: https://slow-motion-twirl.vercel.app
 
 Follow path: https://follow-path-anim.vercel.app
 
-Text animation sequence: https://gsap-text-demo.vercel.app/
+Text multi-step sequence: https://gsap-text-demo.vercel.app/
 
 ### JS 3D 
 
