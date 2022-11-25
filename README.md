@@ -62,6 +62,8 @@ Follow path: https://follow-path-anim.vercel.app
 
 Text multi-step sequence: https://gsap-text-demo.vercel.app/
 
+Kleine Spiele entwickeln (2D): https://kaboomjs.com/
+
 ### JS 3D 
 
 #### ThreeJs
