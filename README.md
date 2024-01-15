@@ -15,6 +15,9 @@ Empfehlungen der Studenten:
 - JS Mastery
 - DevelopedByEd
 
+JS Buch für Einsteiger (mit Übungen direkt online):
+https://eloquentjavascript.net/
+
 Coding Resources für die nächsten 10 Jahre:
 https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md
 
