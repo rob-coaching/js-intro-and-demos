@@ -10,6 +10,9 @@ YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
 - Web Dev Simplified (alles)
 - Jen Simmons (CSS / Layouting)
 - Kevin Powell (CSS)
+- Fireship (alles)
+- Ania Kubow (Games mit JS)
+
 
 Empfehlungen der Studenten:
 - JS Mastery
@@ -31,27 +34,28 @@ https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#codin
 
 #### CSS only
 
-Navbar - Scroll to Section: https://navbar-section-scroll-css.vercel.app
-
-Upload progress bar: https://progress-bar-demo.vercel.app
+Card gallery focus: https://card-gallery-zoom.vercel.app
 
 Flipping business card: https://flipping-business-card.vercel.app
 
 Flipping card on hover: https://flipping-card-onhover.vercel.app
 
-Card gallery focus: https://card-gallery-zoom.vercel.app
-
 Rotating Images Cube: https://images-cube-demo.vercel.app
 
-Glowing Rotation: https://glowing-rotation-demo.vercel.app
+Progress Bar: https://progress-bar-demo.vercel.app
 
 Glowing Cube: https://cube-glowing-demo.vercel.app 
 
 Glowing Club Text: https://glowing-club-text.vercel.app
 
-Shiny Text Backlight: https://shiny-text-backlight.vercel.app/
+Shiny Text Backlight: https://shiny-text-backlight.vercel.app
 
 Text Morphing: https://text-morphing-demo.vercel.app
+
+Analog Clock: https://analog-clock-css-only.vercel.app
+
+Carousel CSS only: https://carousel-continuous-css-only.vercel.app
+
 
 ### JS
 
