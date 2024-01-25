@@ -59,6 +59,8 @@ Carousel CSS only: https://carousel-continuous-css-only.vercel.app
 
 ### JS
 
+Carousel DOM: https://carousel-dom.vercel.app/
+
 Typewriter: https://typewriter-js-demo.vercel.app/
 
 Counter: https://counter-anim-demo.vercel.app
