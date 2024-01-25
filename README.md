@@ -61,6 +61,8 @@ Carousel CSS only: https://carousel-continuous-css-only.vercel.app
 
 Carousel DOM: https://carousel-dom.vercel.app/
 
+Analog Clock: https://clockodile-dundee.vercel.app/
+
 Typewriter: https://typewriter-js-demo.vercel.app/
 
 Counter: https://counter-anim-demo.vercel.app
