@@ -56,6 +56,9 @@ Analog Clock: https://analog-clock-css-only.vercel.app
 
 Carousel CSS only: https://carousel-continuous-css-only.vercel.app
 
+## CHALLENGE
+
+Transparent text: https://transparent-text-mask.vercel.app/
 
 ### JS
 
