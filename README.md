@@ -80,6 +80,13 @@ Kleine Spiele entwickeln (2D): https://kaboomjs.com/
 
 ### JS 3D 
 
+### React three fiber
+
+- EgoShooter (no enemies so far?) https://react-babylon-3d.vercel.app/game/l3
+- Car show (stolen, re-coded): https://car-show-ten.vercel.app
+- Third Person Adventure: https://third-person-camera.vercel.app
+- Resident Evil Mini Clone: https://camera-switch-scene.vercel.app
+
 #### ThreeJs
 
 ThreeJS Examples: https://threejs.org/examples
@@ -101,4 +108,3 @@ Babylon ist eine solide JS Engine für die Entwicklung von 3D Spielen im Browser
 
 Examples: https://www.babylonjs.com/games/
 
-3D Game Scene Demo (no enemies so far, will follow :D): https://react-babylon-3d.vercel.app/game/l3
