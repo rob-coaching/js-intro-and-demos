@@ -63,6 +63,8 @@ Carousel CSS only: https://carousel-continuous-css-only.vercel.app
 
 Transparent text: https://transparent-text-mask.vercel.app/
 
+(versuch das mal, nachzubauen! Nur HTML / CSS ist erlaubt. Sieht einfach aus? Mal gucken :))
+
 ### JS
 
 Carousel DOM: https://carousel-dom.vercel.app/
