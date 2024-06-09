@@ -15,8 +15,10 @@ YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
 
 
 Empfehlungen der Studenten:
-- JS Mastery
+- Programming with Mosh
 - DevelopedByEd
+- JS Mastery
+- The Coding Train
 
 JS Buch für Einsteiger (mit Übungen direkt online):
 https://eloquentjavascript.net/
