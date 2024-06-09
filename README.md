@@ -1,5 +1,16 @@
 # Materials
 
+## Coding lernen
+
+Sehr einfache Seite für Lernen von JS auf deutsch, mit kleiner Challenge nach jeder Einheit:
+https://www.jshero.net
+
+JS Buch für Einsteiger (mit Übungen direkt online im Buch):
+https://eloquentjavascript.net/
+
+Coding Challenges online:
+https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#coding-challenges-online
+
 ## YouTube resources
 
 YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
@@ -13,21 +24,11 @@ YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
 - Fireship (alles)
 - Ania Kubow (Games mit JS)
 
-
 Empfehlungen der Studenten:
 - Programming with Mosh
 - DevelopedByEd
 - JS Mastery
 - The Coding Train
-
-JS Buch für Einsteiger (mit Übungen direkt online):
-https://eloquentjavascript.net/
-
-Coding Resources für die nächsten 10 Jahre:
-https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md
-
-Coding Challenges online:
-https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#coding-challenges-online
 
 
 ## Demos
@@ -78,16 +79,19 @@ Follow path: https://follow-path-anim.vercel.app
 
 Text multi-step sequence: https://gsap-text-demo.vercel.app/
 
+Parallax (mit HTML Canvas Tag): https://80-parallax-background.vercel.app
+
 Kleine Spiele entwickeln (2D): https://kaboomjs.com/
 
 ### JS 3D 
 
 ### React three fiber
 
-- EgoShooter (no enemies so far?) https://react-babylon-3d.vercel.app/game/l3
-- Car show (stolen, re-coded): https://car-show-ten.vercel.app
-- Third Person Adventure: https://third-person-camera.vercel.app
+Eigene Demos: 
 - Resident Evil Mini Clone: https://camera-switch-scene.vercel.app
+- First Person (no enemies so far? kommt noch, hoffentlich :D) https://react-babylon-3d.vercel.app/game/l3
+- Third Person: https://third-person-camera.vercel.app
+- Car show (stolen, re-coded): https://car-show-ten.vercel.app
 
 #### ThreeJs
 
@@ -99,10 +103,10 @@ Examples Enable3D für 3D Effekte mit Physik-Effekten. Mit Bewebung der Maus kan
 
 - 3D World: https://enable3d.io/examples/medieval-fantasy-book-standalone.html
 - Water Waves Effect: https://enable3d.io/examples/water.html
-- Physics with Ball: https://enable3d.io/examples/slope-angle-and-moving-platform.html
+- Physics mit Ball: https://enable3d.io/examples/slope-angle-and-moving-platform.html
 - Wall Crash: https://enable3d.io/examples/wrecking-ball-with-metal-chain.html
 - Ego Shooter: https://enable3d.io/examples/first-person-shooter.html
-- Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
+- Mini Jump n'Run Game mit Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
 
 #### BabylonJS
 
