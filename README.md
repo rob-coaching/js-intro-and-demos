@@ -11,6 +11,10 @@ https://eloquentjavascript.net/
 Coding Challenges online:
 https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#coding-challenges-online
 
+Wie Browser HTML/CSS in Steps rendert:
+https://cabulous.medium.com/how-does-browser-work-in-2019-part-iii-rendering-phase-i-850c8935958f
+(sehr sehr wichtig, um Webpage Performance zu optimieren!)
+
 ## YouTube resources
 
 YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
