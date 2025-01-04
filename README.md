@@ -11,9 +11,9 @@ https://eloquentjavascript.net/
 Coding Challenges online:
 https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#coding-challenges-online
 
-Wie Browser HTML/CSS in Steps rendert:
+Wie der Browser dein HTML/CSS in diesen drei Steps rendert:
 https://cabulous.medium.com/how-does-browser-work-in-2019-part-iii-rendering-phase-i-850c8935958f
-(sehr sehr wichtig, um Webpage Performance zu optimieren!)
+Sehr sehr wichtig zum Verständnis, um Webpage Performance zu optimieren, besonders bei Animations!
 
 ## YouTube resources
 
@@ -22,6 +22,7 @@ YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
 - Brad Traversy (HTML / CSS / JS / React / Node Backend / Express)
 - Net Ninja (alles)
 - Codevolution (alles)
+- Academind / Maximilian Schwarzmüller (alles)
 - Web Dev Simplified (alles)
 - Jen Simmons (CSS / Layouting)
 - Kevin Powell (CSS)
