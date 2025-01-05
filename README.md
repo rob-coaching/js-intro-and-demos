@@ -64,11 +64,14 @@ Analog Clock: https://analog-clock-css-only.vercel.app
 
 Carousel CSS only: https://carousel-continuous-css-only.vercel.app
 
-## CHALLENGE
+## CHALLENGES :-)
 
-Transparent text: https://transparent-text-mask.vercel.app/
+Objekt hinter Transparent text: https://transparent-text-mask.vercel.app
 
-(versuch das mal, nachzubauen! Nur HTML / CSS ist erlaubt. Sieht einfach aus? Mal gucken :))
+Video hinter Text: https://video-knockout-text.vercel.app
+
+Versuch das mal nachzubauen. Nur HTML / CSS ist erlaubt. 
+Sieht einfach aus? Na mal gucken :)
 
 ### JS
 
@@ -100,10 +103,10 @@ Kleine Spiele entwickeln (2D): https://kaboomjs.com/
 #### React three fiber
 
 Eigene Demos: 
-- Resident Evil Mini Clone: https://camera-switch-scene.vercel.app
+- Resident Evil Mini Clone: https://re.robert-ristock.de
 - First Person (no enemies so far? kommt noch, hoffentlich :D) https://react-babylon-3d.vercel.app/game/l3
 - Third Person: https://third-person-camera.vercel.app
-- Car show (stolen, re-coded): https://car-show-ten.vercel.app
+- Car show (idea stolen, re-coded): https://car-show-ten.vercel.app
 
 React Three Examples: https://docs.pmnd.rs/react-three-fiber/getting-started/examples#showcase
 
