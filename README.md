@@ -58,11 +58,14 @@ Glowing Club Text: https://glowing-club-text.vercel.app
 
 Shiny Text Backlight: https://shiny-text-backlight.vercel.app
 
+Background Sliding CSS only: https://bg-image-sliding.vercel.app
+
 Text Morphing: https://text-morphing-demo.vercel.app
 
 Analog Clock: https://analog-clock-css-only.vercel.app
 
 Carousel CSS only: https://carousel-continuous-css-only.vercel.app
+
 
 ## Challenges... probier mal!
 
@@ -89,8 +92,15 @@ Follow path: https://follow-path-anim.vercel.app
 
 Text multi-step sequence: https://gsap-text-demo.vercel.app/
 
-Parallax (mit HTML Canvas Tag): https://80-parallax-background.vercel.app
+### Parallax
 
+Fixed backgrounds ("fake parallax"): https://mountains-fixed-backgrounds.vercel.app (CSS only)
+
+Moon Light: https://moon-parallax-project.vercel.app (JS)
+
+Forrest Parallax: https://80-parallax-background.vercel.app (mit HTML Canvas Tag)
+
+Parallax Background Zoom: https://ice-mountains-parallax.vercel.app (mit GSAP ScrollTrigger)
 
 ## JS 2D Games
 
