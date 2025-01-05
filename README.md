@@ -78,11 +78,11 @@ Sieht einfach aus? Na mal gucken :)
 
 ### JS
 
-Carousel DOM: https://carousel-dom.vercel.app/
+Carousel DOM: https://carousel-dom.vercel.app
 
-Analog Clock: https://clockodile-dundee.vercel.app/
+Analog Clock: https://clockodile-dundee.vercel.app
 
-Typewriter: https://typewriter-js-demo.vercel.app/
+Typewriter: https://typewriter-js-demo.vercel.app
 
 Counter: https://counter-anim-demo.vercel.app
 
@@ -92,7 +92,7 @@ Slow Motion Twirl: https://slow-motion-twirl.vercel.app
 
 Follow path: https://follow-path-anim.vercel.app
 
-Text multi-step sequence: https://gsap-text-demo.vercel.app/
+Text multi-step sequence: https://gsap-text-demo.vercel.app
 
 ### Parallax
 
