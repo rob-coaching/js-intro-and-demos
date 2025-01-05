@@ -86,6 +86,8 @@ Typewriter: https://typewriter-js-demo.vercel.app/
 
 Counter: https://counter-anim-demo.vercel.app
 
+Turn Pages in Book: https://turn-the-page-henna.vercel.app
+
 Slow Motion Twirl: https://slow-motion-twirl.vercel.app
 
 Follow path: https://follow-path-anim.vercel.app
