@@ -91,7 +91,16 @@ Text multi-step sequence: https://gsap-text-demo.vercel.app/
 
 Parallax (mit HTML Canvas Tag): https://80-parallax-background.vercel.app
 
-Kleine Spiele entwickeln (2D): https://kaboomjs.com/
+
+## JS 2D Games
+
+Kleine Spiele entwickeln (2D) mit Kaboom: https://kaboomjs.com/
+
+JumpnRun: https://jumpnrun-demo.vercel.app (Kaboom)
+
+Flappy Bird Clone: https://flappy-kid.vercel.app (Canvas API)
+
+Minimalistic Snake Clone: https://snake-game-clone.vercel.app (CSS Grid & JS)
 
 ### JS 3D 
 
