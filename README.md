@@ -52,6 +52,8 @@ Rotating Images Cube: https://images-cube-demo.vercel.app
 
 Progress Bar: https://progress-bar-demo.vercel.app
 
+Glowing Rotation with Blurred Pseudo Element: https://glowing-rotation-demo.vercel.app
+
 Glowing Cube: https://cube-glowing-demo.vercel.app 
 
 Glowing Club Text: https://glowing-club-text.vercel.app
