@@ -108,6 +108,10 @@ Parallax Background Zoom: https://ice-mountains-parallax.vercel.app (mit GSAP Sc
 
 ## JS 2D Games
 
+Game Development mit Javascript: Kanalempfehlung [Chris Courses](https://youtube.com/@chriscourses?si=cjyPA5JevsmQ7Uw8)
+
+Chris erklärt Game Konzepte sehr anschaulich Step by Step und codet Platformer, Pokemon, Space Shooter, Street Fighter like Games, etc, Step by Step in sehr verständlichen Tutorials. Nicht für JS Einsteiger gedacht, aber ab einem gewissen JS Baselevel: Gönne dir etwas GameDev 🤓🤡
+
 Kleine Spiele entwickeln (2D) mit Kaboom: https://kaboomjs.com/
 
 JumpnRun: https://jumpnrun-demo.vercel.app (Kaboom)
